@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: primeiro-maven
+Bundle-SymbolicName: primeiro-maven
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.rocha.victor
